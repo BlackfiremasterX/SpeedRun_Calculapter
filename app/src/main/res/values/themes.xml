@@ -20,7 +20,7 @@
         <item name="android:layout_weight">1</item>
         <item name="android:textSize">36sp</item>
         <item name="android:textColor">@color/black</item>
-        <item name="android:background">@color/or</item>
+        <item name="android:background">@color/Xanadu</item>
         <item name="android:layout_margin">1dp</item>
         <item name="fontFamily">@font/new_rocker</item>
     </style>
@@ -31,7 +31,7 @@
         <item name="android:layout_weight">1</item>
         <item name="android:textSize">36sp</item>
         <item name="android:textColor">@color/black</item>
-        <item name="android:background">@color/or2</item>
+        <item name="android:background">@color/Jasmine</item>
         <item name="android:layout_margin">1dp</item>
         <item name="fontFamily">@font/new_rocker</item>
 
